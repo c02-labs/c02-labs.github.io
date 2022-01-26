@@ -1,2 +1,2 @@
 # c02-labs.github.io
-Github pages
+Github pages website
